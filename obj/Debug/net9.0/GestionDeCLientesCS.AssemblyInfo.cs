@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionDeCLientesCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de6b2283649fc5f2850d01660df1a4e002371bf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92df04d0d85b48541f0e7787fff668a2f47e9a1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionDeCLientesCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionDeCLientesCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
